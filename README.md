@@ -27,8 +27,9 @@ Projeto construído do evento Next Level Week da Rocketseat.
   - Comentários
   - Specifity
   - Box model
-- Github;
-  - Primeiros passos de Git;
+- Github
+  - Primeiros passos de Git
+- Figma
 
 
 ## 📞 Contato
