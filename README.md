@@ -14,5 +14,22 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 👨‍🏫 Educador
 - [**Mayk Brito**](https://github.com/maykbrito)
 
-## Contato
+## ❓ O que eu aprendi?
+- HTML
+  - Hypertext
+  - Markup
+  - Sintaxe de tag
+  - Atributos
+  - Comentários
+- CSS
+  - Declaration
+  - Cascading
+  - Comentários
+  - Specifity
+  - Box model
+- Github;
+  - Primeiros passos de Git;
+
+
+## 📞 Contato
 guilhermefujii643@gmail.com
