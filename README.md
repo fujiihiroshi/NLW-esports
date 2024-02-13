@@ -34,3 +34,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 📞 Contato
 guilhermefujii643@gmail.com
+
+Oii, tudo bem?
